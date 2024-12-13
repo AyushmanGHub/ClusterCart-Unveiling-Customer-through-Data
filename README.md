@@ -36,7 +36,7 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 ### Figure 04. Distribution of top 50 StockID
 <img src="plots/04.png" alt="Alt Text" width="800" height ="300"/>
 
-## <span style="color: #4A90E2"> Result from Clustering </span>
+## Result from Clustering 
 
 ### Figure 05. Distribution of number of Customer in each KMeans Cluster
 <img src="plots/05.png" alt="Alt Text" width="800" height ="300"/>
@@ -44,8 +44,6 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 ### Figure 06. Plot of Customer ID coloured by Custer in 3 Dimension
 <img src="plots/06.png" alt="Alt Text" width="900" height ="300"/>
 
-
-## Result
 ### ---------------------------- **sales strategies** --------------------------------
 The probabilities for each customer show the likelihood that they will buy a specific product, based on their purchasing behavior and the cluster they belong to. Higher probabilities mean a greater chance of purchase. By examining these probabilities, businesses can identify which products are likely to be bought by customers in each segment. This insight enables businesses to create **targeted marketing strategies**, offering personalized recommendations that are more relevant to each customer, ultimately enhancing engagement and increasing the chances of successful sales.
 
