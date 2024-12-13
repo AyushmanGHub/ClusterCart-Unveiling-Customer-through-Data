@@ -5,7 +5,7 @@ Here’s the revised and more polished version of your content:
 ---
 
 ## <span style="color: #4A90E2">Introduction</span>
-<hr style="border: 1px solid Grey;"/>
+
 In this project, we aim to segment customers based on their purchasing behavior using the **K-Means clustering algorithm**. Customer segmentation is an essential strategy for businesses, enabling them to gain deeper insights into their customer base, identify distinct groups, and tailor marketing and sales strategies accordingly. By uncovering patterns within customer data, businesses can improve product recommendations, enhance customer satisfaction, and ultimately increase profitability.
 
 The methodology for this project is as follows:
@@ -19,32 +19,35 @@ The goal of this project was to identify customer segments with similar characte
 ---
 
 ## <span style="color: #4A90E2">About the Dataset</span>
-<hr style="border: 1px solid Grey;"/>
+
 The dataset used in this project is the **Online Retail** dataset, which is publicly available on the **UCI Machine Learning Repository**. It contains transactional data from a UK-based e-commerce business, providing a comprehensive record of customer purchases. This data offers valuable insights into customer purchasing behavior, making it ideal for customer segmentation tasks. 
 
 For further details, you can access the dataset on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 ---
 
 ## <span style="color: #4A90E2"> Exploratory Data Analysis </span>
+
 ### Figure 01.Visualization of dataset by reduceding to 2 Dimension
-<img src="plots/01.png" alt="Alt Text" width="800" height ="450"/>
+<img src="plots/01.png" alt="Alt Text" width="800" height ="300"/>
 
 ### Figure 02. Visualization of dataset by reduceding to 3 Dimension
-<img src="plots/02.png" alt="Alt Text" width="800" height ="400"/>
+<img src="plots/02.png" alt="Alt Text" width="800" height ="300"/>
 
 ### Figure 03. Distribution of number of customer from each Country
-<img src="plots/03.png" alt="Alt Text" width="800" height ="450"/>
+<img src="plots/03.png" alt="Alt Text" width="800" height ="300"/>
 
 ### Figure 04. Distribution of top 50 StockID
 <img src="plots/04.png" alt="Alt Text" width="800" height ="400"/>
+
+## <span style="color: #4A90E2"> Result from Clustering </span>
 
 ### Figure 05. Distribution of number of Customer in each KMeans Cluster
 <img src="plots/05.png" alt="Alt Text" width="800" height ="450"/>
 
 ### Figure 06. Plot of Customer ID coloured by Custer in 3 Dimension
 <img src="plots/06.png" alt="Alt Text" width="800" height ="400"/>
-
-
+---
+## Result
 ## ---------- sales strategies ----------
 The probabilities for each customer show the likelihood that they will buy a specific product, based on their purchasing behavior and the cluster they belong to. Higher probabilities mean a greater chance of purchase. By examining these probabilities, businesses can identify which products are likely to be bought by customers in each segment. This insight enables businesses to create **targeted marketing strategies**, offering personalized recommendations that are more relevant to each customer, ultimately enhancing engagement and increasing the chances of successful sales.
 
@@ -59,9 +62,8 @@ The probabilities for each customer show the likelihood that they will buy a spe
 |    5    | 0.122714 | 0.136104 | 0.136744 | 0.121490 | 0.101894 | 0.165568 |   .................    |
 |    6    | 0.121711 | 0.144439 | 0.145134 | 0.114709 | 0.128302 | 0.120555 |   .................    |
 
-
+---
 ## <span style="color: #4A90E2">Results and Conclusion</span>
-<hr style="border: 1px solid Grey;"/>
 The K-Means clustering algorithm was successfully applied to segment customers based on their purchasing behavior and demographic information. The model identified several distinct customer groups, with each cluster representing customers with similar purchasing patterns. By examining the mean probability for each product across different clusters, we were able to determine the likelihood of a customer purchasing specific items. Higher probabilities for certain products indicated that customers in those clusters were more likely to purchase them, providing actionable insights into customer preferences.
 
 # ----------------------------------------------------------------
