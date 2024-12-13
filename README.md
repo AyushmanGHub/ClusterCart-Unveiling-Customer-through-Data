@@ -60,8 +60,9 @@ The probabilities for each customer show the likelihood that they will buy a spe
 
 
 ## Results and Conclusion
-
+<br>
 The K-Means clustering algorithm was successfully applied to segment customers based on their purchasing behavior and demographic information. The model identified several distinct customer groups, with each cluster representing customers with similar purchasing patterns. By examining the mean probability for each product across different clusters, we were able to determine the likelihood of a customer purchasing specific items. Higher probabilities for certain products indicated that customers in those clusters were more likely to purchase them, providing actionable insights into customer preferences.
+
 ---
 # ----------------------------------------------------------------
 ### * If want to know more about this project there are python Notebook file, Project report paper and all other resources included in same repository.
