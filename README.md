@@ -1,6 +1,6 @@
 # ClusterCart-Unveiling-Customer-through-Data
 
-### Likelihood (Probability) of buting for Each Product by KMeans Cluster
+### Likelihood (Probability) of buying for Each Product by KMeans Cluster
 
 | Cluster | prob_10002 | prob_10080 | prob_10120 | ............. |
 |---------|------------|------------|------------|---------------|
