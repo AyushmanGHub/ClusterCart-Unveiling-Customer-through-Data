@@ -46,7 +46,7 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 
 
 ## Result
-### **---------------------------- sales strategies --------------------------------**
+### ---------------------------- **sales strategies** --------------------------------
 The probabilities for each customer show the likelihood that they will buy a specific product, based on their purchasing behavior and the cluster they belong to. Higher probabilities mean a greater chance of purchase. By examining these probabilities, businesses can identify which products are likely to be bought by customers in each segment. This insight enables businesses to create **targeted marketing strategies**, offering personalized recommendations that are more relevant to each customer, ultimately enhancing engagement and increasing the chances of successful sales.
 
 ### Likelihood (Probability) of buying for Each Product by KMeans Cluster
