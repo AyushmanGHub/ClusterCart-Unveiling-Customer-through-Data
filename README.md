@@ -46,7 +46,7 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 
 
 ## Result
-### ------------------------------ sales strategies ----------------------------------
+### **---------------------------- sales strategies --------------------------------**
 The probabilities for each customer show the likelihood that they will buy a specific product, based on their purchasing behavior and the cluster they belong to. Higher probabilities mean a greater chance of purchase. By examining these probabilities, businesses can identify which products are likely to be bought by customers in each segment. This insight enables businesses to create **targeted marketing strategies**, offering personalized recommendations that are more relevant to each customer, ultimately enhancing engagement and increasing the chances of successful sales.
 
 ### Likelihood (Probability) of buying for Each Product by KMeans Cluster
@@ -60,10 +60,10 @@ The probabilities for each customer show the likelihood that they will buy a spe
 |    5    | 0.122714 | 0.136104 | 0.136744 | 0.121490 | 0.101894 | 0.165568 |   .................    |
 |    6    | 0.121711 | 0.144439 | 0.145134 | 0.114709 | 0.128302 | 0.120555 |   .................    |
 
----
-## <span style="color: #4A90E2">Results and Conclusion</span>
-The K-Means clustering algorithm was successfully applied to segment customers based on their purchasing behavior and demographic information. The model identified several distinct customer groups, with each cluster representing customers with similar purchasing patterns. By examining the mean probability for each product across different clusters, we were able to determine the likelihood of a customer purchasing specific items. Higher probabilities for certain products indicated that customers in those clusters were more likely to purchase them, providing actionable insights into customer preferences.
 
+## Results and Conclusion
+The K-Means clustering algorithm was successfully applied to segment customers based on their purchasing behavior and demographic information. The model identified several distinct customer groups, with each cluster representing customers with similar purchasing patterns. By examining the mean probability for each product across different clusters, we were able to determine the likelihood of a customer purchasing specific items. Higher probabilities for certain products indicated that customers in those clusters were more likely to purchase them, providing actionable insights into customer preferences.
+---
 # ----------------------------------------------------------------
 ### * If want to know more about this project there are python Notebook file, Project report paper and all other resources included in same repository.
 ### * Feel free to reach out, I'm open to engaging in meaningful conversations and exchanging ideas on these areas. I welcome the chance to explore new insights, collaborate on projects, and contribute to ongoing discussions in these fields.
