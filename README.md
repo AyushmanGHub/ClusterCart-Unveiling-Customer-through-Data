@@ -1,10 +1,7 @@
 # ClusterCart-Unveiling-Customer-through-Data
-
-Here’s the revised and more polished version of your content:
-
 ---
 
-## <span style="color: #4A90E2">Introduction</span>
+## Introduction
 
 In this project, we aim to segment customers based on their purchasing behavior using the **K-Means clustering algorithm**. Customer segmentation is an essential strategy for businesses, enabling them to gain deeper insights into their customer base, identify distinct groups, and tailor marketing and sales strategies accordingly. By uncovering patterns within customer data, businesses can improve product recommendations, enhance customer satisfaction, and ultimately increase profitability.
 
@@ -16,16 +13,16 @@ The methodology for this project is as follows:
 
 The goal of this project was to identify customer segments with similar characteristics, allowing businesses to target these groups with tailored marketing campaigns, optimize product offerings, and enhance customer retention strategies. Through the combination of K-Means clustering, data analysis, and visualization, this project demonstrates the power of data-driven customer segmentation in modern business strategies.
 
----
 
-## <span style="color: #4A90E2">About the Dataset</span>
+
+## About the Dataset
 
 The dataset used in this project is the **Online Retail** dataset, which is publicly available on the **UCI Machine Learning Repository**. It contains transactional data from a UK-based e-commerce business, providing a comprehensive record of customer purchases. This data offers valuable insights into customer purchasing behavior, making it ideal for customer segmentation tasks. 
 
 For further details, you can access the dataset on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
----
 
-## <span style="color: #4A90E2"> Exploratory Data Analysis </span>
+
+## Exploratory Data Analysis
 
 ### Figure 01.Visualization of dataset by reduceding to 2 Dimension
 <img src="plots/01.png" alt="Alt Text" width="800" height ="300"/>
@@ -46,9 +43,10 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 
 ### Figure 06. Plot of Customer ID coloured by Custer in 3 Dimension
 <img src="plots/06.png" alt="Alt Text" width="800" height ="400"/>
----
+
+
 ## Result
-## ---------- sales strategies ----------
+### ---------- sales strategies ----------
 The probabilities for each customer show the likelihood that they will buy a specific product, based on their purchasing behavior and the cluster they belong to. Higher probabilities mean a greater chance of purchase. By examining these probabilities, businesses can identify which products are likely to be bought by customers in each segment. This insight enables businesses to create **targeted marketing strategies**, offering personalized recommendations that are more relevant to each customer, ultimately enhancing engagement and increasing the chances of successful sales.
 
 ### Likelihood (Probability) of buying for Each Product by KMeans Cluster
