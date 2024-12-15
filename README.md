@@ -59,7 +59,7 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 The probabilities for each customer show the likelihood that they will buy a specific product, based on their purchasing behavior and the cluster they belong to. Higher probabilities mean a greater chance of purchase. By examining these probabilities, businesses can identify which products are likely to be bought by customers in each segment. This insight enables businesses to create **targeted marketing strategies**, offering personalized recommendations that are more relevant to each customer, ultimately enhancing engagement and increasing the chances of successful sales.
 
 ### Likelihood (Probability) of buying for Each Product by KMeans Cluster
-| Cluster | li_10002 | li_10080 | li_10120 | li_10125 | li_10133 | li_10135 | ---------------------- |
+| Cluster | li_10002 | li_10080 | li_10120 | li_10125 | li_10133 | li_10135 |   .................    |
 |---------|----------|----------|----------|----------|----------|----------|------------------------|
 |    0    | 0.139685 | 0.141657 | 0.137839 | 0.126015 | 0.210436 | 0.177199 |   .................    |
 |    1    | 0.137232 | 0.151795 | 0.151451 | 0.143733 | 0.192380 | 0.143863 |   .................    |
