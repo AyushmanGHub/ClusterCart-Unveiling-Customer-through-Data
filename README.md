@@ -12,7 +12,7 @@ The methodology for this project is as follows:
 1. **Data Analysis:** Pandas was used for data cleaning, preprocessing, and exploratory analysis to ensure the dataset was ready for clustering.
 2. **Clustering Algorithm:** The **K-Means** algorithm was implemented to group customers into meaningful clusters based on behavioral and demographic similarities.
 3. **Dimensionality Reduction:** **Principal Component Analysis (PCA)** was applied to reduce the data's dimensionality, simplifying visualization while preserving essential information.
-4. **Visualization:** Interactive visualizations using **Plotly** allowed us to effectively analyze the clusters and present the results in an easily understandable format.
+4. **Visualization:** **matplotlib, seabornInteractive visualizations using Plotly** allowed us to effectively analyze the clusters and present the results in an easily understandable format.
 
 The goal of this project was to identify customer segments with similar characteristics, allowing businesses to target these groups with tailored marketing campaigns, optimize product offerings, and enhance customer retention strategies. Through the combination of K-Means clustering, data analysis, and visualization, this project demonstrates the power of data-driven customer segmentation in modern business strategies.
 
