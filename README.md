@@ -1,5 +1,8 @@
-# ClusterCart-Unveiling-Customer-through-Data
+### Customer Segmentation Using Clustering Algorithms
 ---
+
+# ClusterCart-Unveiling-Customer-through-Data
+
 
 ## Introduction
 
