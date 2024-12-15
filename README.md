@@ -16,7 +16,7 @@ The goal of this project was to identify customer segments with similar characte
 
 
 ## About the Dataset
-The dataset used in this project is the **Online Retail** dataset, which is publicly available on the **UCI Machine Learning Repository**. It contains transactional data from a UK-based e-commerce business, providing a comprehensive record of customer purchases. This data offers valuable insights into customer purchasing behavior, making it ideal for customer segmentation tasks. 
+The dataset used in this project is the **Online Retail** dataset, which is publicly available on the **UCI Machine Learning Repository**. It contains transactional data from a UK-based e-commerce business, providing a comprehensive record of customer purchases. This data offers valuable insights into customer purchasing behavior, making it ideal for customer segmentation tasks.<br>
 For further details, you can access the dataset on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 
 
