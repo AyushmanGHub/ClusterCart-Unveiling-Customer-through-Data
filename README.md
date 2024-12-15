@@ -39,7 +39,7 @@ For further details, you can access the dataset on the [UCI Machine Learning Rep
 ### Figure 05. Distribution of number of Customer in each KMeans Cluster
 <img src="plots/05.png" alt="Alt Text" width="800" height ="300"/>
 
-### Customer Segmentation Table: provides a compact and visually organized view of the cluster.
+### Customer Segmentation Table: compact and visually organized view of cluster.
 |Cluster|Number of Customers| Sample Customer IDs|
 |-------|---------|---------------------------------------------------------|
 | **0** |   628   | `14056.0, 14059.0, 14062.0, 14064.0, 14066.0, ........` |
